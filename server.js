@@ -1,9 +1,16 @@
 const TelegramBot = require('node-telegram-bot-api');
+const fs = require('fs');
 
 const { Telegraf, Markup, Extra, InlineKeyboardButton  } = require('telegraf');
 
-
-const bot = new Telegraf("6096993955:AAERmkYjwelcP7swoLKICqA8einfhzqz8iI");
+const FileApiKey = 'api key.txt';
+let apiKey;
+try {
+  apiKey = fs.readFileSync(FileApiKey, 'utf8');
+} catch (err) {
+  console.error(err);
+}
+const bot = new Telegraf(apiKey)
 
 const authorizedUserIds = [
   497250936, 359052078, 773683903
@@ -205,7 +212,6 @@ console.log(yy)
 });
 
 
-const fs = require('fs');
 
 function saveUserId(userId) {
   userId = "" + userId;
