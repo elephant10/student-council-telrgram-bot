@@ -1,0 +1,121 @@
+[
+     {
+      "id":"1",
+       "name": " Акімова Олена Андріївна ",
+       "job": "В.о. декана факультету",
+       "mail": "olena.kasatkina@gmail.com",
+       "telegram": "(066) 866 20 83, viber також тут",
+       "phone": "(044) 204 82 00,  (066) 866 20 83",
+       "image":"http://fsp.kpi.ua/wp-content/uploads/2014/06/IMG_8440-287x400.jpg"
+     },
+    {
+      "id":"2",
+       "name": " 7 корпус 531 каб.",
+       "job": "Деканат",
+       "mail": "dekanat513@gmail.com",
+       "telegram": "@dekanatfsp",
+       "phone": "044-204-90-20",
+       "image":"https://kpi.ua/images/fsp.png"
+     },
+     {
+      "id":"11",
+       "name": "Мазур Тетяна Олександрівна",
+       "job": "бухгатлер ФСП",
+       "mail": "bfsp@ukr.net \nсайт: https://fsp.kpi.ua/ua/studentu/buhgalteriya/ \nМісцерозташування:<i> корпус 7, 5-ий поверх, каб. 523-А (поруч з кафедрою теорії та практики управління)</i>",
+       "telegram": "@BuhgalterFSP",
+       "phone": "+380 68 354 27 06  +38 (044) 204 83 67",
+       "image":""
+     },
+     {
+      "id":"12",
+       "name": "контакти викладачів факультету",
+       "job": "сайт",
+       "mail": "-\nпосилання: https://fsp.kpi.ua/ua/vykladachi/",
+       "telegram": "",
+       "phone": "-",
+       "image":""
+     },   
+     {
+      "id":"3",
+      "name": "Пашов Ростислав Іванович",
+      "job": "з навчально-виховної роботи",
+      "mail": "pashov.kpi@gmail.com",
+      "telegram": "(050) 504 71 91, viber також",
+      "phone": "(050) 504 71 91",
+      "image":"https://fsp.kpi.ua/wp-content/uploads/2021/03/Pashov.jpg"
+    },
+    {
+      "id":"4",
+     "name": "Костроміна Ганна Михайлівна",
+     "job": "з навчально-виховної роботи",
+     "mail": "kostromina.hanna@gmail.com",
+     "telegram": "(093) 106 68 79",
+     "phone": "(093) 106 68 79",
+     "image":"https://fsp.kpi.ua/wp-content/uploads/2021/12/Kostromina-300x400.jpg"
+    },
+    {
+      "id":"5",
+     "name": "Перга Юрій Миколайович",
+     "job": "з наукової роботи",
+     "mail": "",
+     "telegram": "@y_perga",
+     "phone": "+380 93 824 43 07",
+     "image":"https://fsp.kpi.ua/wp-content/uploads/2022/07/perga.jpg"
+    },
+    {
+      "id":"6",
+     "name": "Северинчик Олексій Павлович",
+     "job": "з соціально-побутових питань",
+     "mail": "o.severinchik@gmail.com",
+     "telegram": "@nordsever7",
+     "phone": "(044) 204 90 22, +380 67 297 96 79",
+     "image":"http://fsp.kpi.ua/wp-content/uploads/2014/06/severinchuk.jpg"
+    },
+    {
+      "id":"7",
+     "name": "Іщенко Анна Миколаївна",
+     "job": "з міжнародної діяльністості",
+     "mail": "ishchenko.kpi@gmail.com",
+     "telegram": "@ku4maa",
+     "phone": "+380 67 683 75 15",
+     "image":"https://fsp.kpi.ua/wp-content/uploads/2021/11/Ishhenko.jpg"
+    },
+    {
+      "id":"8",
+     "name": "Балашов Дмитро Валерійович",
+     "job": "з профорієнтації",
+     "mail": "balashov.dim@gmail.com",
+     "telegram": "@dmtrblshv",
+     "phone": "+380 93 673 66 30",
+     "image":"https://fsp.kpi.ua/wp-content/uploads/2021/12/Balashov-300x400.jpg"
+    },
+    {
+      "id":"9",
+     "name": "Блага Олена Володимирівна",
+     "job": "з адміністративно-господарської роботи",
+     "mail": "blagaev@gmail.com",
+     "telegram": "(067) 463 38 88, viber також",
+     "phone": "(044) 204 92 70, (067) 463 38 88",
+     "image":"http://fsp.kpi.ua/wp-content/uploads/2014/06/79-235x300.jpg"
+    },
+     {
+      "id":"10",
+       "name": "Сева Болотов",
+       "job": "Відповідальний за бота та розбан",
+       "mail": "я не на стільки офіційний",
+       "telegram": "@okeanskiy_slon",
+       "phone": "пиши в тг:)",
+       "image":"https://telegra.ph/file/93fce27ea04bdd9d2d8b4.jpg"
+     },
+     {
+      "id":"0",
+       "name": "Олеся Расквасова",
+       "job": "В.о. голови СР ФСП",
+       "mail": "rasiklesik@gmail.com ",
+       "telegram": "@raskvasova",
+       "phone": "пиши в тг:)",
+       "image":"https://telegra.ph/file/9a85bf32b6834a559203b.jpg"
+     }
+
+   ]
+   
